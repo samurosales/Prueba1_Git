@@ -2,4 +2,7 @@
 Escribiendo datos para un merge
 
 
+escribo mis cambios fuera de mi rama
+
+
 
